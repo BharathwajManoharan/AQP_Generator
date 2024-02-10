@@ -1,5 +1,3 @@
-# AQP_Generator
-
 ## Dive into Text Comprehension and Query Crafting
 
 ### Unveiling T5 Small Power
