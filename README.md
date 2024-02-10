@@ -1,10 +1,10 @@
 ## Dive into Text Comprehension and Query Crafting
 
-### Unveiling T5 Small Power
+### 1) Unveiling T5 Small Power
 - Utilizing the compact yet mighty T5 Small model for tackling PDF comprehension and question generation tasks.
 - Harnessing its prowess to grasp technical jargon and intricate details.
 
-### Optimizing with ADAMW
+### 2) Optimizing with ADAMW
 - Employing the ADAMW optimizer to fine-tune model parameters, ensuring optimal performance.
 - Tweaking the learning rate to enhance model adaptability to technical content.
 
