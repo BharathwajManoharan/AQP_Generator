@@ -4,7 +4,7 @@
 - Utilizing the compact yet mighty T5 Small model for tackling PDF comprehension and question generation tasks.
 - Harnessing its prowess to grasp technical jargon and intricate details.
 
-### 2) Optimizing with ADAMW
+### 2) Optimizing with AdamW
 - Employing the ADAMW optimizer to fine-tune model parameters, ensuring optimal performance.
 - Tweaking the learning rate to enhance model adaptability to technical content.
 
@@ -23,6 +23,6 @@
 - Exploring ensemble techniques to amplify model capabilities and student engagement.
 
 ## Conclusion
-The fusion of T5 Small's agility with the precision of ADAMW optimizer heralds a new era in PDF understanding and question crafting. As students dive into complex texts, this dynamic duo stands ready to illuminate pathways to knowledge with crisp comprehension and thought-provoking queries. With each evaluation metric setting a new standard, the journey towards enriched learning experiences continues, fueled by innovation and driven by excellence.
+The fusion of T5 Small's agility with the precision of AdamW optimizer heralds a new era in PDF understanding and question crafting. As students dive into complex texts, this dynamic duo stands ready to illuminate pathways to knowledge with crisp comprehension and thought-provoking queries. With each evaluation metric setting a new standard, the journey towards enriched learning experiences continues, fueled by innovation and driven by excellence.
 
 Together, let's continue to explore, learn, and grow, knowing that the *best is yet to come!*
